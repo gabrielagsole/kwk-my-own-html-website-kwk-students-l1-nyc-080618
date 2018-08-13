@@ -2,11 +2,12 @@
   font-size: 500%;
   background-color: #9A5BBA;
   text-align:center;
-  font-family: trebuchet;
+  font-family: courier;
   border: 7px solid #FFF8D3;
   
 }
 
 body {
   background-color: #BA9EBA;
+  font-family: trebuchet;
 }
